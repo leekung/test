@@ -1,0 +1,29 @@
+{
+  "PHP_VERSION": "{PHP_71_LATEST}",
+  "COMPOSER_VENDOR_DIR": "htdocs/vendor",
+  "WEBDIR": "htdocs/public",
+  "PHP_EXTENSIONS": [
+    "bz2",
+    "zlib",
+    "fpm",
+    "curl",
+    "mcrypt",
+    "gd",
+    "zip",
+    "mbstring",
+    "exif",
+    "gettext",
+    "mysqli",
+    "openssl",
+    "pdo",
+    "pdo_mysql",
+    "pdo_pgsql",
+    "soap",
+    "sockets",
+    "pdo_sqlite",
+    "fileinfo",
+    "tokenizer",
+    "gmp",
+    "intl"
+  ]
+}
